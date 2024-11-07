@@ -1,0 +1,13 @@
+body{
+    background-color: #d8765d;
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 30%;
+    height: 10%;
+}
+img:hover{
+    content: url("terrifer.jpg");
+    width: 30%;
+    height: 10%;
+} 
